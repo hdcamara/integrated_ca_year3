@@ -1,0 +1,41 @@
+GROUP RESPONSIBILITIES:
+Contribution to the planning and design of the software:
+
+Week 1. We initially had 3 integrants which was discussed further on the class, Iin the following week another integrant was added to it.
+
+I initially had drawn a prototype based on previously projects I had worked before.  The sketch sample design is attached to the final report in which I contributed 
+with the problem definition and the list of requirements as well as the rental system diagram (prototype).
+
+-	Problem definition
+
+Week 2. This week, another member was added up to our project prototype. With his help as well as the collaboration of the team and we could have a clear and better understanding
+of the requirements altogether.  We could then define the project scope following a logic structure by adding the principles and its methodologies.
+
+The following documentation is an overview of our work group after the brainstorm of ideas taking examples from previously projects handed out to us using login systems.
+Also, with the help of the (Life Cycle Designing).
+
+-	List of requirements
+
+Attached and explained it on the final report
+
+-	System diagram (prototype)
+
+Attached it to the final report
+
+
+SINGLE RESPONSIBILITIES:
+For this prototype to be working just fine I took the initiavite to develop the main driver as as well as the registration and login. Without this functionality,
+the prototype would not be working as expected. 
+
+ 	(OOAD)
+-	Problem Definition and System Requirements. Leading the problem definition as well as to the development process. 
+
+  (AADP)
+-	User Registration
+-	User Login
+-	NetBeans Project Setup:
+-	Main Driver class
+
+NOTE: This can change while developing the prototype.
+
+
