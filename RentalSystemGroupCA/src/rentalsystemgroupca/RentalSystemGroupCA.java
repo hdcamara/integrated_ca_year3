@@ -9,6 +9,8 @@ package rentalsystemgroupca;
  * @author Franklin
  */
 public class RentalSystemGroupCA {
+    
+    UserHistory userHistory = new UserHistory();
 
     /**
      * @param args the command line arguments
