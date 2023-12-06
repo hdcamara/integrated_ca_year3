@@ -11,13 +11,13 @@ import java.time.Duration;
  * @author diego
  */
 public class Film {
-    private int id;
-    private String title;
-    private int year;
-    private String director;
-    private Duration duration; // specific type to be used for decribe a length of time
-    private String parental;
-    private String genre;
+    private final int id;
+    private final String title;
+    private final int year;
+    private final String director;
+    private final Duration duration; // specific type to be used for decribe a length of time
+    private final String parental;
+    private final String genre;
 
     // IDE generated Constructors
     public Film(int id, String title, int year, String director, Duration duration, String parental, String genre) {
@@ -29,5 +29,35 @@ public class Film {
         this.parental = parental;
         this.genre = genre;
     }
+
+    public int getId() {
+        return id;
+    }
+
+    public String getTitle() {
+        return title;
+    }
+
+    public int getYear() {
+        return year;
+    }
+
+    public String getDirector() {
+        return director;
+    }
+
+    public Duration getDuration() {
+        return duration;
+    }
+
+    public String getParental() {
+        return parental;
+    }
+
+    public String getGenre() {
+        return genre;
+    }
+    
+    
 
 }
